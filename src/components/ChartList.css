@@ -1,0 +1,25 @@
+
+div {
+  align-items: center;
+  margin-left: 20px;
+}
+
+.chart  {
+  width: 500px;
+}
+
+ img {
+  float: left;
+  margin: 0 15px 0 0;
+
+}
+
+li {
+  padding: 10px;
+  overflow: auto;
+}
+
+li:hover {
+  background: #eee;
+  cursor: pointer;
+}
